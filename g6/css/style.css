@@ -1,0 +1,24 @@
+* {
+    color: rgb(90, 67, 78);
+}
+h1 {
+    font-family: 'Amatic SC', sans-serif;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Jost', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-color: rgb(255, 244, 250);
+}
+.quil {
+    background-color: rgb(183, 157, 229);
+}
+#preguntas {
+    background-color: #eac2db;
+}
+.flom {
+    background-color: rgb(159, 129, 159);
+}
